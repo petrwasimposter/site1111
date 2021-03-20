@@ -1,6 +1,8 @@
 <html>
         <head>
             <title>Самойлов и Ко</title>
+                <link rel="stylesheet"
+                 href="style.css"/>
         </head>
         <header>
             <img class="head"src="https://mars.algoritmika.org/uploads/2021/01/logo_0_1611261359.svg"/><p class="sitestyle">Photos</p>
