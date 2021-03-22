@@ -76,11 +76,12 @@ color: white;
 }
 footer{
     position: absolute;
-width: 1050px;
+width: 1200px;
 height: 161px;
 left: 0px;
 top: 900px;
 background: #024C68;
+padding: 30px;
 }
 header{
     background: #024C68;
@@ -93,7 +94,7 @@ font-style: normal;
 font-weight: normal;
 line-height: 44px;
  padding-top: 35px;
- width: 1050px;
+ width: 1250px;
 }
 .border{
     padding-top: 0px;
