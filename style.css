@@ -44,9 +44,9 @@ ul{
 .border{
     border-bottom: 3px solid black;
     border-top: 3px solid black;
-    border-radius: 3px;
-    padding-top: 40px;
+    border-radius: 0px;
     padding-bottom: 40px;
+    padding-top: 40px;
 }
 .footerj{
 position: absolute;
